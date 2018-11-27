@@ -1,0 +1,160 @@
+missing module named 'win32com.gen_py' - imported by win32com, c:\program files\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named pyimod03_importers - imported by PyInstaller.loader.pyimod02_archive, c:\program files\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named StringIO - imported by PyInstaller.lib.modulegraph._compat, PyInstaller.lib.modulegraph.zipio, six, requests.packages.urllib3.packages.six, urllib3.packages.six, requests.compat, scipy._lib.six, numpy.lib.utils, numpy.testing.utils, numpy.lib.format, pkg_resources._vendor.six
+missing module named __builtin__ - imported by numpy.core.numerictypes, numpy.core.numeric, scipy._lib.six, numpy.lib._iotools, numpy.ma.core, numpy.distutils.misc_util, numpy, pkg_resources._vendor.pyparsing
+missing module named ordereddict - imported by pkg_resources._vendor.pyparsing
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named _scproxy - imported by urllib.request
+missing module named 'macholib.compat' - imported by macholib.MachO
+missing module named xdis - imported by PyInstaller.lib.modulegraph._compat
+missing module named dis3 - imported by PyInstaller.lib.modulegraph._compat
+missing module named urllib.pathname2url - imported by urllib, PyInstaller.lib.modulegraph._compat
+missing module named _pkgutil - imported by PyInstaller.lib.modulegraph.modulegraph
+missing module named pyimod00_crypto_key - imported by PyInstaller.loader.pyimod02_archive
+missing module named thread - imported by PyInstaller.loader.pyimod02_archive, requests.packages.urllib3.packages.ordered_dict, urllib3.packages.ordered_dict, cffi.lock, cffi.cparser
+missing module named 'win32ctypes.pywin32' - imported by PyInstaller.compat
+missing module named win32ctypes - imported by PyInstaller.compat
+missing module named UserDict - imported by PyInstaller.compat
+missing module named multiprocessing.Manager - imported by multiprocessing, nose.plugins.plugintest
+missing module named multiprocessing.current_process - imported by multiprocessing, nose.plugins.plugintest
+missing module named multiprocessing.SimpleQueue - imported by multiprocessing, concurrent.futures.process
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources, setuptools.dist, setuptools.command.egg_info
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, pkg_resources._vendor.packaging.requirements
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources
+missing module named 'multiprocessing.forking' - imported by c:\program files\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named resource - imported by posix, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named posix - imported by os, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named org - imported by pickle, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named readline - imported by cmd, code, pdb, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, PyInstaller.loader.pyimod02_archive, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named _winreg - imported by platform, numpy.distutils.cpuinfo, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py, pkg_resources._vendor.appdirs
+missing module named java - imported by platform, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named 'java.lang' - imported by platform, xml.sax._exceptions, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named vms_lib - imported by platform, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named termios - imported by tty, getpass, click.termui, click._termui_impl, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named urllib.splittag - imported by urllib, setuptools.py26compat
+missing module named urllib.urlencode - imported by urllib, requests.compat
+missing module named urllib.getproxies - imported by urllib, requests.compat
+missing module named urllib.quote_plus - imported by urllib, requests.compat
+missing module named urllib.proxy_bypass - imported by urllib, requests.compat
+missing module named urllib.unquote_plus - imported by urllib, requests.compat
+missing module named urllib.quote - imported by urllib, requests.compat
+missing module named urllib.unquote - imported by urllib, requests.compat
+missing module named grp - imported by tarfile, shutil, distutils.archive_util, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, getpass, distutils.util, netrc, distutils.archive_util, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named 'org.python' - imported by copy, xml.sax, setuptools.sandbox, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named _dummy_threading - imported by dummy_threading, G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named audio_helpers - imported by G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named assistant_helpers - imported by G:\Google Assistant\Google-Assistant-on-PC\googleassistant.py
+missing module named cPickle - imported by pycparser.ply.yacc, numpy.core.numeric, numpy.lib.format, numpy.lib.npyio, numpy.ma.core
+missing module named cStringIO - imported by cffi.ffiplatform, cPickle
+missing module named copy_reg - imported by cStringIO, cPickle, numpy.core
+missing module named numpy.core.number - imported by numpy.core, numpy.testing.utils
+missing module named numpy.lib.imag - imported by numpy.lib, numpy.testing.utils
+missing module named numpy.lib.real - imported by numpy.lib, numpy.testing.utils
+missing module named numpy.lib.iscomplexobj - imported by numpy.lib, numpy.testing.utils
+missing module named numpy.core.signbit - imported by numpy.core, numpy.testing.utils
+missing module named numpy.core.float64 - imported by numpy.core, numpy.testing.utils
+missing module named numpy.core.isinf - imported by numpy.core, numpy.testing.utils
+missing module named numpy.core.isfinite - imported by numpy.core, numpy.testing.utils, numpy.linalg.linalg
+missing module named numpy.core.isnan - imported by numpy.core, numpy.testing.utils
+missing module named numpy.core.float32 - imported by numpy.core, numpy.testing.utils
+missing module named new - imported by nose.pyversion, nose.ext.dtcompat
+missing module named sets - imported by nose.util, numpy.distutils.misc_util, numpy.distutils.fcompiler, numpy.distutils.command.build_ext
+missing module named compiler - imported by nose.pyversion
+missing module named IronPython - imported by nose.suite
+missing module named clr - imported by nose.suite
+missing module named unittest2 - imported by nose.plugins.skip
+missing module named numpy.random.rand - imported by numpy.random, scipy
+missing module named numpy.random.randn - imported by numpy.random, scipy
+missing module named numpy.lib.i0 - imported by numpy.lib, numpy.dual
+missing module named numpy.linalg.inv - imported by numpy.linalg, numpy.matrixlib.defmatrix, numpy.lib.polynomial
+missing module named ConfigParser - imported by numpy.distutils.system_info, numpy.distutils.npy_pkg_config
+missing module named 'numpy_distutils.cpuinfo' - imported by numpy.f2py.diagnose
+missing module named 'numpy_distutils.fcompiler' - imported by numpy.f2py.diagnose
+missing module named 'setuptools.extern.six.moves' - imported by setuptools.dist, setuptools.command.easy_install, setuptools.sandbox, setuptools.command.setopt, setuptools.package_index, setuptools.ssl_support, setuptools.command.egg_info, setuptools.command.py36compat, setuptools.namespaces, setuptools.msvc
+missing module named 'setuptools.extern.six' - imported by setuptools, setuptools.extension
+missing module named 'pkg_resources.extern.packaging.version' - imported by setuptools.msvc
+missing module named wincertstore - imported by setuptools.ssl_support
+missing module named 'backports.ssl_match_hostname' - imported by requests.packages.urllib3.packages.ssl_match_hostname, urllib3.packages.ssl_match_hostname, setuptools.ssl_support
+missing module named urllib2 - imported by requests.compat, setuptools.package_index, numpy.lib._datasource
+missing module named setuptools.extern.six - imported by setuptools.extern, setuptools.monkey, setuptools.dist, setuptools.py33compat, setuptools.config, setuptools.command.easy_install, setuptools.sandbox, setuptools.py27compat, setuptools.package_index, setuptools.command.bdist_egg, setuptools.command.egg_info, setuptools.command.sdist, setuptools.unicode_utils, setuptools.glob, setuptools.command.develop
+missing module named 'numpy_distutils.command' - imported by numpy.f2py.diagnose
+missing module named numpy_distutils - imported by numpy.f2py.diagnose
+missing module named __svn_version__ - imported by numpy.f2py.__version__
+missing module named numarray - imported by numpy.distutils.system_info
+missing module named Numeric - imported by numpy.distutils.system_info
+missing module named commands - imported by numpy.distutils.cpuinfo
+missing module named _curses - imported by curses, curses.has_key
+missing module named numpy.core.integer - imported by numpy.core, numpy.fft.helper
+missing module named numpy.core.sqrt - imported by numpy.core, numpy.fft.fftpack, numpy.linalg.linalg
+missing module named numpy.core.conjugate - imported by numpy.core, numpy.fft.fftpack
+missing module named mklfft - imported by numpy.fft
+missing module named numpy.lib.triu - imported by numpy.lib, numpy.linalg.linalg
+missing module named numpy.core.add - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.single - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.longdouble - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.double - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.intp - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.maximum - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.complexfloating - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.inexact - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.cdouble - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.geterrobj - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.multiply - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.csingle - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.object_ - imported by numpy.core, numpy.linalg.linalg
+missing module named future_builtins - imported by numpy.lib.npyio
+missing module named urlparse - imported by requests.compat, numpy.lib._datasource
+missing module named numpy.dtype - imported by numpy, numpy.ma.mrecords, numpy.ctypeslib
+missing module named numpy.recarray - imported by numpy, numpy.ma.mrecords
+missing module named numpy.expand_dims - imported by numpy, numpy.ma.core
+missing module named numpy.array - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib
+missing module named numpy.amin - imported by numpy, numpy.ma.core
+missing module named numpy.ndarray - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib
+missing module named numpy.iscomplexobj - imported by numpy, numpy.ma.core
+missing module named numpy.bool_ - imported by numpy, numpy.ma.core, numpy.ma.mrecords
+missing module named numpy.amax - imported by numpy, numpy.ma.core
+missing module named numpy.histogramdd - imported by numpy, numpy.lib.twodim_base
+missing module named numpy.eye - imported by numpy, numpy.core.numeric
+missing module named md5 - imported by pycparser.ply.yacc
+missing module named cffi._pycparser - imported by cffi, cffi.cparser
+missing module named dummy_thread - imported by requests.packages.urllib3.packages.ordered_dict, urllib3.packages.ordered_dict, cffi.lock
+missing module named testing - imported by cffi.recompiler
+missing module named fcntl - imported by click.termui, asyncio.unix_events
+missing module named asyncio.DefaultEventLoopPolicy - imported by asyncio, asyncio.events
+missing module named google.protobuf.pyext._message - imported by google.protobuf.pyext, google.protobuf.internal.api_implementation, google.protobuf.descriptor, google.protobuf.pyext.cpp_message
+missing module named google.protobuf.enable_deterministic_proto_serialization - imported by google.protobuf, google.protobuf.internal.api_implementation
+missing module named google.protobuf.internal.use_pure_python - imported by google.protobuf.internal, google.protobuf.internal.api_implementation
+missing module named google.protobuf._use_fast_cpp_protos - imported by google.protobuf, google.protobuf.internal.api_implementation
+missing module named google.protobuf.internal._api_implementation - imported by google.protobuf.internal, google.protobuf.internal.api_implementation
+missing module named 'six.moves.urllib' - imported by 'six.moves.urllib'
+runtime module named six.moves - imported by google.auth.transport, google.auth.transport._http_client, google.auth._helpers, google.oauth2._client, google.auth.jwt, google.auth.compute_engine._metadata, 'six.moves.urllib', cryptography.x509.general_name, cryptography.hazmat.backends.openssl.decode_asn1
+missing module named pyasn1.type.opentype - imported by pyasn1.type, pyasn1_modules.rfc2459
+missing module named psyco - imported by rsa.transform
+missing module named 'google.appengine' - imported by google.auth.app_engine
+runtime module named requests.packages.urllib3.packages.six.moves - imported by http.client, queue, requests.packages.urllib3.util.response, 'requests.packages.urllib3.packages.six.moves.urllib', requests.packages.urllib3.response
+missing module named _abcoll - imported by requests.packages.urllib3.packages.ordered_dict, urllib3.packages.ordered_dict
+missing module named "'requests.packages.urllib3.packages.six.moves.urllib'.parse" - imported by requests.packages.urllib3.request, requests.packages.urllib3.poolmanager
+missing module named Queue - imported by requests.packages.urllib3.connectionpool, urllib3.connectionpool
+runtime module named urllib3.packages.six.moves - imported by http.client, urllib3.connectionpool, urllib3.util.response, 'urllib3.packages.six.moves.urllib', urllib3.response
+missing module named "'urllib3.packages.six.moves.urllib'.parse" - imported by urllib3.request, urllib3.poolmanager
+missing module named Cookie - imported by requests.compat
+missing module named cookielib - imported by requests.compat
+missing module named simplejson - imported by requests.compat
+missing module named socks - imported by requests.packages.urllib3.contrib.socks
+missing module named 'cryptography.hazmat.bindings._commoncrypto' - imported by cryptography.hazmat.bindings.commoncrypto.binding
+missing module named grpc_reflection - imported by grpc
+missing module named grpc_health - imported by grpc
+missing module named grpc_tools - imported by grpc
